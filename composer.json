@@ -8,6 +8,12 @@
     "prefer-stable": true,
     "version": "1.0.7",
     "license": "BSD-3-Clause",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/PrometheusCTO/CoinbaseBundle.git"
+        }
+    ],
     "authors": [
         {
             "name": "Mehmet Sen",
